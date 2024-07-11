@@ -1,0 +1,11 @@
+language variant
+name Grim_Reaper
+gender male 70
+echo 200 190
+pitch 60 100
+flutter 40
+
+formant 0 100 80 110
+
+
+

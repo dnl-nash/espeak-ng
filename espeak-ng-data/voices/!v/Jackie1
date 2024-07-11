@@ -1,0 +1,15 @@
+language variant
+name Jackie1
+pitch  85 130
+klatt 5
+formant 0 91 115 125 155
+formant 1 89 115 90 105
+formant 2 90 95 190 230
+formant 3 88 121 152 203
+formant 4 -89 65 90 145
+formant 5 -93 90 135 195
+formant 6 -92 110 140 190 250
+formant 7 -110 155 200 290
+formant 8 100 95 80
+voicing 95
+consonants 110

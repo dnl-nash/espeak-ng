@@ -1,0 +1,16 @@
+language variant
+name Bob_2
+klatt 4 3 4
+voicing -80  -80
+consonants -160 160
+breath 0 25 -25 -12 12 -6
+formant 0 93 100 100 0
+formant 1 94 100 75 0
+formant 2 92 100 75 0
+formant 3 90 100 75 0
+formant 4 88 100 75 0
+formant 5 90 100 75 0
+formant 6 92 100 75 0
+formant 7 95 100 75 0
+formant 8 99 100 75 0
+intonation 3

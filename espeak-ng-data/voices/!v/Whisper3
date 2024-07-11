@@ -1,0 +1,13 @@
+language variant
+name Whisper3
+gender male
+pitch 2001 2000
+consonants 45 -85
+voicing 2 -1
+tone 87 95 175 95 350 95 625 95 1250 95 2500 95 5000 95 7500 95 9998 95
+breath 7 6 5 4 3
+stressLength 134 134 134 102 1 1 102 134
+stressAdd 119 119 119 119 119 119 119 119
+stressAmp 16 16 16 16 16 16 16 16
+speed 94 -94
+words 2 3 3 4

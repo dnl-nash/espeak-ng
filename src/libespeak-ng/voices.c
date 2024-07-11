@@ -68,7 +68,7 @@ static const int formant_rate_22050[9] = { 240, 170, 170, 170, 170, 170, 170, 17
 int formant_rate[9]; // values adjusted for actual sample rate
 
 #define DEFAULT_LANGUAGE_PRIORITY  5
-#define N_VOICES_LIST  350
+#define N_VOICES_LIST  2800
 static int n_voices_list = 0;
 static espeak_VOICE *voices_list[N_VOICES_LIST];
 

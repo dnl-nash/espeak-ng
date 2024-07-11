@@ -1,0 +1,19 @@
+language variant
+name Mr_Silly_2
+pitch 135 110
+intonation 4
+formant 0 94 120 160
+formant 1 95 85 85
+formant 2 94 85 85
+formant 3 84 85 85
+formant 4 94 85 85
+formant 5 93 85 85
+formant 6 86 85 85
+formant 7 86 85 85
+formant 8 86 85 85
+stressAdd -5 -5 -5 -5 -5 -5 -5 -5
+stressAmp 14 14 14 14 14 14 14 14
+stressLength 175 207 207 239 239 207 207 175
+tone 12 150 25 150 50 150 100 150 150 150 200 150 250 150 375 150 500 150 625 150 750 150 875 150 1000 150 3000 150 6000 150 9998 150
+voicing 85 85
+consonants 125 125

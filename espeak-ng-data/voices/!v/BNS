@@ -1,0 +1,14 @@
+language variant
+name BNS
+formant 0 10 10 10
+formant 1 100 100 100
+formant 2 100 100 100
+formant 3 100 100 100
+formant 4 80 80 80
+formant 5 80 80 80
+formant 6 100 100 100
+formant 7 100 100 100
+formant 8 100 100 100
+intonation 3
+pitch 87 87
+tone 1200 240 1200 240 240 240

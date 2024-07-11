@@ -1,0 +1,25 @@
+language variant
+name Bill_2
+pitch 63 117
+klatt 5
+status  Mature
+tone 500 255  1000 255  2500 255  4750 255  9998 255
+voicing  -80  80
+consonants  120  -120
+breath 0 0 0 0 0 0 0 0
+flutter 2
+roughness 2
+formant 0 91 100 -100
+formant 1 89 100 100
+formant 2 90 100 -100
+formant 3 92 100 100
+formant 4 93 100 -100
+formant 5 95  100  100
+formant 6 97  100  -100
+formant 7 98  100  100
+formant 8 99  100  -100
+stressAdd -70 -70 -70 -70 -70 -70 -70 -70
+stressAmp 25 25  25 25  25 25  25 25
+stressLength 140 145 145 150 150 155 160 165
+speed 89 89
+words 84 84

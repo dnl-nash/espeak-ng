@@ -1,0 +1,44 @@
+#Language stuff; All mandatory.
+language variant
+name Denture_2
+#Some extra preliminaries.
+gender Male 1
+speed 92 90
+words 1 1 1 2
+flutter 3 3
+roughness 3 4
+#Pitch range
+#First number's the bass value, then the top value.
+pitch 67  120
+#For the next 9 lines:
+#First is the frequency of the formant.
+#Next is the volume of the formant.
+#Finally, the width of that formant's range.
+#Add a fourth number to force a fixed frequency onto that formant.
+formant 0 92 135
+formant 1 93 -135
+formant 2 92 135
+formant 3 93 -135
+formant 4 94 -135
+formant 5 96 135
+formant 6 95 135
+formant 7 97 135
+formant 8 96 135
+#And here's the graphic equalizer.
+#Four pairs of numbers: Bass, Mid Low, Mid High and Treble.
+#First number in the pair's the frequency; Second is the volume.
+tone  25 192 250 192 500 192 1000 192 2000 192  4000 192  8000 192
+#Voicing and Consonants change the overall character of a variant.
+#Get a whisper with Voicing's number(s) near 0.
+voicing 45 -63
+#Someone's got no teeth if Consonants's two numbers are/close to 0.
+#I should do that on one of these variants?
+consonants 55 -80
+#The following three lines allow stress to be enforced.
+#You can add stress, amplify it, and evenforce it to be a certain length.
+stressLength 136 136 136 136 136 136 136 136
+stressAdd 68 68 68 68 68 68 68 68
+stressAmp 26 26 26 26 26 26 26 26
+#These last two lines add a breath component to a variant.
+breath 35 35 35 35
+breathw 5999 5999 5999 5999

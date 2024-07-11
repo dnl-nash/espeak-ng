@@ -1,0 +1,49 @@
+#Please note the 2 number signs, or pound signs in this file are for comments to help you to understand what the settings are and how to set them.  
+# Language sets the language of your voice.  This setting is required for every voice that you make.
+#The next line is a setting you can change.  However if you don't know the language codes it may be best to leave the setting as it is.
+language variant
+name MisterSilly
+klatt 3 5 6 5
+flutter 4 4
+roughness 6 6
+echo 44 21
+formant 0 88 120 120
+formant 1 89 110 115
+formant 2 91 110 120
+formant 3 91 99 110
+formant 4 89 80 110
+formant 5 90 105 130
+formant 6 95 145 185
+formant 7 100 150 145
+formant 8 80 140 245
+#Intonation affects the rise and fall of the voice	
+# The settings are 1 default, 2 less intonation, 3 even less intonation and commas do not raise the pitch, 4 the pitch rises at the end of a sentence rather than falling.
+#The next line is a setting you can change.
+intonation 3 3
+# Setting the pitch range.  The first number gives a base pitch to the voice (value in Hertz).  The second number controls the range of pitches used by the voice. Setting it equal
+# to the first number will give a monotone sounding voice.  The default values are 82 and 118.
+pitch 135 110
+# Tone: To apply an e.q. component to this voice, use a pair of numbers, first the frequency, than the volume.
+# You can put as many pairs as you'd like, but all numbers must be positive.
+#The following line can so be edited.
+tone 25 135 50 135 75 135 100 135 150 135 350 135 700 135 4200 135 11400 135 12800 135 15600 135 9998 135
+ And for some final curiosities, shall we?
+# Voicing adjusts the strength of the overall voice track excluding s's and t's. Proper whisper at 0.
+voicing 43 43
+# Consonants boosts (or drops) the stresses of words. Lisp is these numbers at 0.
+consonants 280 280
+#Stress Lines
+#Note that Length is first for correct working of this entire section!
+# StressLength is the proper time of the stress.
+# No more than 8 numbers per entry for the line sets.
+stressLength 200 190 180 170 160 150 140 130
+#StressAdd and StressAmp can be negative, but not StressLength (if I remember right).
+# StressAdd Shows how much space should be between syllables.
+# Smaller numbers shorten the collective gap.
+stressAdd 35 35 35 35 35 35 35 35
+#StressAmp changes the volume of stress patterns.
+#Smaller numbers are quiter.
+stressAmp 19 19 19 19 19 19 19 19
+speed 82 82
+words 4 4 3 2
+breath 20 20 20 20 20

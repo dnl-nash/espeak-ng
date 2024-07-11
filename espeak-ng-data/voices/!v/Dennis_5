@@ -1,0 +1,18 @@
+language variant 3
+name Dennis_5
+gender male 2
+echo 5 -99
+pitch 60 114
+formant 0 86 95 95 95
+formant 1 88 95 95 95
+formant 2 91 95 95 95
+formant 3 91 95 95 95
+formant 4 94 95 95 95
+formant 5 93 95 95 95
+formant 6 95 95 95 95
+formant 7 98 95 95 95
+voicing -66 -66
+consonants -105 -105
+tone 250 255 500 255 1500 255 4500 255 9999 255
+stressAdd 40 40  40 40  40 40  40 40
+stressAmp 40 40  40 40  40 40  40 40

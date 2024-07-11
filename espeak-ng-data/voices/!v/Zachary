@@ -1,0 +1,26 @@
+language variant
+name Zachary
+klatt 6 66
+flutter 8 8 8 8
+intonation 3 3
+tunes e2 q2 s2
+pitch 150 135
+formant 0 95 90 125
+formant 1 95 90 125
+formant 2 93 90 130
+formant 3 89 90 255
+formant 4 87 90 255
+formant 5 85 90 255
+formant 6 43 400 465
+formant 7 77 200 265
+formant 8 77 200 265
+voicing 90 50
+stressOpt 1 1 1 1
+stressRule 0 1 1 1
+stressLength 115 105 95 5 5 5 95 105
+stressAdd 95 95 95 95 95 95 95 5
+stressAmp 21 21 21 21 21 21 21 21
+speed 98 110
+words 2 2 2 1
+breath 65 55 45 35 35
+breathw 1200 1200 1200 1200 1200

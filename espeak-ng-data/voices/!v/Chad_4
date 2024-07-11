@@ -1,0 +1,24 @@
+language variant
+name Chad_4
+klatt 6 6 6 6 6 6 6 6
+voicing 100 100
+pitch 67 112
+flutter 3 5
+roughness 4 4
+formant 0 95 100 100 0
+formant 1 89 100 100 0
+formant 2 91 100 100 0
+formant 3 92 100 100 0
+formant 4 92 100 100 0
+formant 5 93 100 100 0
+formant 6 94 100 100 0
+formant 7 95 100 100 0
+formant 8 96 100 100 0
+intonation 3 3
+stressOpt 1 1 1 1
+stressRule 0 0 1 1
+stressLength 125 100 75 50 1 1 50 100
+stressAdd 289 289 289 289 0 0 289 289
+stressAmp 21 21 21 21 0 0 21 21
+speed 104 104 104 104 104 104 104 104
+words 1 4 1 4 1 4 1 4

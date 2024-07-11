@@ -1,0 +1,44 @@
+#Language stuff; All mandatory.
+language variant
+name PureLisp
+#Some extra preliminaries.
+#Klatt changes the overall form factor of a voice.
+klatt 5 5 5 5
+gender Male 2
+flutter 4 5
+roughness 5 6
+#Pitch range
+#First number's the bass value, then the top value.
+pitch 64 117
+#For the next 8 lines:
+#First is the frequency of the formant.
+#Next is the volume of the formant.
+#Finally, the width of that formant's range.
+#Add a fourth number to force a fixed frequency onto that formant.
+formant 0 92 185
+formant 1 93 -185
+formant 2 92 185
+formant 3 93 -185
+formant 4 94 185
+formant 5 96 -185
+formant 6 95 185
+formant 7 97 -185
+formant 8 96 -185
+#And here's the graphic equalizer.
+#First number in the pair's the frequency; Second is the volume.
+tone 62 192 125 192 250 192 375 192 500 192 750 192 1000 192 3000 192 4250 192 5000 192 7000 192 9000 192
+#Voicing and Consonants change the overall character of a variant.
+#Sounds like someone's missing two front teef if Consonant's two numbers are 0's.
+voicing 95 95 95 95
+consonants 15 15 15 15
+#The following three lines allow stress to be enforced.
+#You can add stress, amplify it, and evenforce it to be a certain length.
+stressLength 140 135 135 130 135 130 130 125
+stressAdd 100 100 100 100 100 100 100 100
+stressAmp 17 17 17 17 17 17 17 17
+#Try the Speed and Words number arrangements for an interestingly curious effect.
+speed 81 81
+words 65 65
+#These last two lines add a breath component to a variant.
+breath 80 80 80 80
+breathw 80 80 80 80

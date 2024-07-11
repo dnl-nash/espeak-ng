@@ -1,0 +1,20 @@
+language variant
+name Half-Life-Announcement-System_2
+pitch 60 121
+echo 55 30
+klatt 5 5
+formant 1 95 81 75 0
+formant 2 94 81 75 0
+formant 3 94 81 75 0
+formant 4 93 81 75 0
+formant 5 96 81 75 0
+formant 6 99 81 75 0
+formant 7 102 81 75 0
+formant 8 108 81 75 0
+voicing -30 30
+consonants -95 95
+stressLength 104 104 104 104 104 104 104 104
+stressAdd 104 104 104 104 104 104 104 104
+stressAmp 15 15 15 15 15 15 15 15
+speed 88 88
+words 1 1 1 2

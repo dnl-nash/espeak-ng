@@ -1,0 +1,20 @@
+language variant
+name George_2
+pitch  62 115
+klatt 6 6
+formant 0 86 85
+formant 1 88 85
+formant 2 92 85
+formant 3 91 85
+formant 4 94 85
+formant 5 95 85
+formant 6 95 85
+formant 7 91 85
+tone 150 192 300 192 300 192 600 192 1200 192 2400 192 4800 192 9600 192
+voicing 88
+consonants -144
+speed 85 85
+words 90 90
+stressLength 100 200 100 0 0 0 100 150
+stressAdd -43 -43 -43 -43 -43 -43 -43 -43
+stressAmp 17 17 17 17 17 17 17 17

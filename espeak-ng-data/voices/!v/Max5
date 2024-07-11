@@ -1,0 +1,16 @@
+language variant
+name Max5
+klatt 6
+pitch  65  117
+formant 0 85 110 -100
+formant 1 -90 -100 -75
+formant 2 95 -100 75
+formant 3 95 100 -75
+formant 4 -100 -100 -100
+formant 5 95 -90 -87
+formant 6 93 -100 -100
+formant 7 -96 -110 -110
+formant 8 100 100 100
+voicing  45 -45 45
+consonants  -250 250 -250
+tone  175 355 350 355 700 255  1400 355  2800 355  4200 355  5600 355  9998 355

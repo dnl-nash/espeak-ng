@@ -1,0 +1,21 @@
+language variant
+name Frog_2
+gender male 7
+klatt 6
+pitch 65 113
+flutter 19 19 19 19
+formant 0 88 140 105 105
+formant 1 91 140 105 -105
+formant 2 94 -140 -105 105
+formant 3 96 140 -105 105
+formant 4 92 -140 -105 -105
+formant 5 96 140 105 -105
+formant 6 102 140 -105 -105
+voicing 140 140
+#The following three lines allow stress to be enforced.
+#You can add stress, amplify it, and evenforce it to be a certain length.
+stressLength 119 136 136 119 119 119 119 136
+stressAdd 120 120 120 120 120 120 120 120 120
+stressAmp 20 20 20 20 20 20 20 20
+speed 101 203
+words 2 1 1 1

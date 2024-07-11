@@ -1,0 +1,26 @@
+language variant
+name BrailleNSpeak_3
+pitch 95 95
+klatt 4 4
+flutter 0
+roughness 3
+formant 0 93 100 100 0
+formant 1 94 100 75 0
+formant 2 92 100 75 0
+formant 3 90 100 75 0
+formant 4 88 100 75 0
+formant 5 90 100 75 0
+formant 6 92 100 75 0
+formant 7 95 100 75 0
+formant 8 99 100 75 0
+intonation 3
+tone 50 155 75 155 150 155 350 155 700 155 1400 155 2800 155 4200 155 5600 155 9998 155
+voicing -25 25
+consonants -460 460
+stressLength 104 104 104 104 104 104 104 104
+stressAdd 104 104 104 104 104 104 104 104
+stressAmp 17 17 17 17 17 17 17 17
+speed 88 88
+words 3 3 3 3
+breath  25 25 25 25
+breathw  9998 9998 9998 9998 9998

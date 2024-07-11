@@ -1,0 +1,18 @@
+language variant
+name Jackie0
+pitch 73 125
+klatt 1
+formant 0 92 -75
+formant 1 95 -75
+formant 2 98 -75
+formant 3 96 -80
+formant 4 97 80
+formant 5 -91 -80
+formant 6 88 85 95
+formant 7 94 -85
+formant 8 99 -90
+voicing 79 79
+consonants 289 -289
+stressLength 245 245 245 245 245 245 245 245
+stressAdd -62 -62  -62 -62  -62 -62  -62 -62
+stressAmp 28 28  28 28  28 28  28 28

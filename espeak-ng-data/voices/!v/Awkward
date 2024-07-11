@@ -1,0 +1,20 @@
+language variant
+name Awkward
+klatt 5 5
+pitch 65 119
+intonation 3
+formant 0 88 130 75 75
+formant 1 91 130 75 -75
+formant 2 94 -130 -75 75
+formant 3 96 130 75 -75
+formant 4 92 -130 -75 75
+formant 5 96 130 75 -75
+formant 6 102 130 75 75
+tone  500 255  1000 255  2000 255  4000 255  8000 255
+voicing -50  50
+consonants -125 125
+speed 86 89
+words 3 3 3 3
+stressLength 160 160 160 160 160 160 160 160
+stressAdd -125 -125 -125 -125 -125 -125 -125 -125
+stressAmp 29 29 29 29 29 29 29 29

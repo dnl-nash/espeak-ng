@@ -1,0 +1,30 @@
+#Okay, I say English United States
+#This is now sorta sounding fake British/Scottish? Lol?
+#Let's see how this pans out...
+language variant 
+name Winston
+#No you dumb cluck, - Not the cigarette brand!
+dictrules 17 15 15 17
+formant 0 85 -95 97  -108 119  130
+formant 1 -88  -100 -102 -113 -124 -135 -146 -157 -179
+formant 2 -90 100 105 98 100 102 104 106 1-9 110 112 114
+formant 3 87  -100 -115  140  180
+formant 4 85 -100 110 -120 130 -140 150 -160 170 -180
+formant 5 81  95 -100 105 -110 115 -120 125 -130 135 -140
+formant 6 84  100  90 
+   formant 7 87   90 110   
+formant 8 -600   105 155 
+pitch 70 120 
+tone  15 355 30 355 60 355 120 355 240 355 720 355 1440 355 2880 355 7560 355 9998 355
+voicing  64 -64 64 -64 64 -64 64 -64
+consonants  155  -155 155
+flutter 4 4
+roughness 6 6
+stressOpt 31 31 31 31
+stressRule 5 9 5 9 5 9 5 9
+stressLength 135 135 135 112 0 0 112 135
+stressAdd 135 135 135 112 0 0 112 135
+stressAmp 21 21 21 21 0 0 21 21
+speed 96 96 96 96 96 96 96 96
+words 2 1 2
+  

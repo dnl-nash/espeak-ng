@@ -1,0 +1,47 @@
+#Comment lines with a Shift+3 (hash, pound) sign in voices and variants.
+language variant
+name Colossus
+#Klatt chooses one of six available voice patters to apply.
+#For proper SpeechPlayerInESpeak usage, Klatt 6 is best.
+klatt 6
+#Pitch changes how much the voice moves.
+#Flat numbers give a monotone voice as per here.
+pitch 85 85
+#Formants define the overall tone of a voice/variant.
+#After the "Formant 0-8", first is frequency,
+#Second is the volume/Strength,
+#Third is the Width of a formant,
+#A fourth number applies a filtered resonance to the formant.
+formant 0 85 100 100
+formant 1 85 100 100
+formant 2 85 100 100
+formant 3 85 100 100
+formant 4 85 100 100
+formant 5 85 100 100
+formant 6 85 100 100
+formant 7 85 100 100
+formant 8 85 100 100
+#intonation changes how the voice moves at punctuation points.
+#1: Normal
+#2: Slightly less intonation
+#3: Even less intonation (commas don't impact anything.)
+#4: Pattern rises instead of falls throughout a sentence.
+intonation 3
+#Tone is a graphic E.Q.; Frequency and Volume.
+tone 150 255 300 255 600 255 1200 255 1800 255 2400 255 3000 255 3600 255 4200 255 4800 255 5400 255 6000 255 6600 255 7200 255 7800 255 8400 255 9000 255
+#Voicing and Consonants change the overall character of a variant.
+#Achieve a whisper – Voicing's 2 numbers are 0.
+#SideNote on Whisper variants; Pitch can adjust how loud the whisper is?
+#Sounds like a lisp – if Consonant's two numbers are 0.
+voicing 105 105
+consonants -175 175
+#Stress adjustments
+#StressAdd: stress spacing,
+#StressAmp: stress volume,
+#StressLength: how long the stress lasts.
+stressAdd 99 99 99 99 99 99 99 99
+stressAmp 19 19 19 19 19 19 19 19
+stressLength 105 190 105 185 105 185 105 180
+#Speed and Words further impact syllable cadence.
+speed 73 72
+words 68 67

@@ -1,0 +1,14 @@
+language variant
+name Tom_4
+klatt 4
+pitch  70 110
+formant 0 100 100 100
+formant 1 97 100 100
+formant 2 97 90 50
+formant 3 101 70 50
+formant 4 110 65 55 
+formant 5 110 70 65
+formant 6 110 70 65
+formant 7 100 100 100
+formant 8 100 100 100 
+voicing 70

@@ -1,0 +1,21 @@
+language variant
+name Tortured
+pitch 64 116
+flutter 2
+roughness 3
+voicing -80  -80
+consonants -160  -160
+echo 6 100
+tone 500 255  1250 255  3750 255  5555 255  9998 255
+breath 6 6  6 6  6 6  6 6
+breathw 998 998  998 998  998 998  998 998
+stressAdd 30 30 30 30 30 30 30 30
+stressAmp 30 30  30 30  30 30  30 30
+formant 0 88 120 75 75
+formant 1 91 -120 -75 -75
+formant 2 93 120 -75 -75
+formant 3 91 -120 -75 -75
+formant 4 95 120 -75 -75
+formant 5 98 -120 75 75
+formant 6 104 -120 -75 -75
+formant 7 109 -120 -75 -75
