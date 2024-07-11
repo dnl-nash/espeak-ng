@@ -31,6 +31,7 @@
         <activity
             android:name=".DownloadVoiceData"
             android:theme="@android:style/Theme.Dialog"
+            android:directBootAware="true"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.speech.tts.engine.INSTALL_TTS_DATA" />
@@ -41,6 +42,7 @@
         <activity
             android:name=".CheckVoiceData"
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:directBootAware="true"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.speech.tts.engine.CHECK_TTS_DATA" />
@@ -51,6 +53,7 @@
         <activity
             android:name=".GetSampleText"
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:directBootAware="true"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.speech.tts.engine.GET_SAMPLE_TEXT" />
@@ -61,6 +64,7 @@
         <activity
             android:name=".TtsSettingsActivity"
             android:label="@string/tts_settings_label"
+            android:directBootAware="true"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.speech.tts.engine.CONFIGURE_ENGINE" />
